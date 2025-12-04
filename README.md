@@ -25,7 +25,7 @@ Language: VBA
 Files included:
 monte_carlo_barrier_vba.bas – Main implementation
 report.pdf – Full documentation (LaTeX)
-Example Excel workbook (optional)
+Example Excel workbook 
 Main features:
 Simulation of asset paths
 Barrier monitoring at each timestep
@@ -36,7 +36,6 @@ Monte Carlo pricing of the barrier option
 Significant variance reduction using Antithetic & Control Variates
 Better numerical stability and faster convergence
 Analysis of hedging performance with vs. without barrier
-(These points correspond to what you have already done — si tu veux ajouter un graphe plus tard, tu peux.)
 Presentation
 This project was fully developed and presented orally as part of my coursework.
 It demonstrates autonomy, technical depth, and communication skills.
