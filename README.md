@@ -23,8 +23,7 @@ Numerical convergence analysis
 Implementation Details
 Language: VBA
 Files included:
-monte_carlo_barrier_vba.bas – Main implementation
-report.pdf – Full documentation (LaTeX)
+Raport.pdf – Full documentation (LaTeX)
 Example Excel workbook 
 Main features:
 Simulation of asset paths
