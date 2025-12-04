@@ -23,7 +23,7 @@ Numerical convergence analysis
 Implementation Details
 Language: VBA
 Files included:
-Raport.pdf – Full documentation (LaTeX)
+Rapport.pdf – Full documentation (LaTeX)
 Example Excel workbook 
 Main features:
 Simulation of asset paths
